@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="3074059093ea8710d21ef9bfdd03d605" label="Laboratory" max_length="40" name="x_2185782_hospit_0_laboratory" type="collection">
+        <element label="Patient" max_length="32" name="patient" reference="x_2185782_hospit_0_patient" type="reference"/>
+        <element label="Lab_Report_Notes" max_length="40" name="lab_report_notes" type="string"/>
+        <element label="Doctor" max_length="32" name="doctor" reference="x_2185782_hospit_0_doctor" type="reference"/>
+        <element choice="3" label="test_status" max_length="40" name="test_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
+            </choice>
+        </element>
+        <element label="Test_Type" max_length="40" name="test_type" type="string"/>
+        <element label="Lab_request_id" max_length="40" name="lab_request_id" type="string"/>
+        <index name="index">
+            <element name="doctor"/>
+        </index>
+        <index name="index2">
+            <element name="patient"/>
+        </index>
+    </element>
+</database>

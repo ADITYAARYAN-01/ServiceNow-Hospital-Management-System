@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="9b28d5ef93da0310d21ef9bfdd03d645" label="Department" max_length="40" name="x_2185782_hospit_0_department" text_index="true" type="collection">
+        <element label="Description" max_length="500" name="description" type="string"/>
+        <element display="true" label="Department Name" max_length="100" name="department_name" type="string"/>
+    </element>
+</database>

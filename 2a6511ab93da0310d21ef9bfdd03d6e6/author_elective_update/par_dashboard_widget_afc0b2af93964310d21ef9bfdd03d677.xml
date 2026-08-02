@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">0fc072af93964310d21ef9bfdd03d6fc</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>3</h>
+        <name/>
+        <required_translations>[{"comment":"","message":"Happening Now","code":"PAR_DASHBOARD.0fc072af93964310d21ef9bfdd03d6fc.afc0b2af93964310d21ef9bfdd03d677"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-31 19:24:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>afc0b2af93964310d21ef9bfdd03d677</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Hospital Management System" source="x_2185782_hospit_0">2a6511ab93da0310d21ef9bfdd03d6e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital Management System">2a6511ab93da0310d21ef9bfdd03d6e6</sys_scope>
+        <sys_update_name>par_dashboard_widget_afc0b2af93964310d21ef9bfdd03d677</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-31 19:24:46</sys_updated_on>
+        <visualization/>
+        <w>47</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital Management System">2a6511ab93da0310d21ef9bfdd03d6e6</application>
+        <file_path/>
+        <instance_id>4ffaa2479329c718611eddd548373c3c</instance_id>
+        <instance_name>dev412245</instance_name>
+        <name>par_dashboard_widget_afc0b2af93964310d21ef9bfdd03d677</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">0fc072af93964310d21ef9bfdd03d6fc</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>3</h><name/><required_translations>[{"comment":"","message":"Happening Now","code":"PAR_DASHBOARD.0fc072af93964310d21ef9bfdd03d6fc.afc0b2af93964310d21ef9bfdd03d677"}]</required_translations><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-31 19:24:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>afc0b2af93964310d21ef9bfdd03d677</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Hospital Management System" source="x_2185782_hospit_0">2a6511ab93da0310d21ef9bfdd03d6e6</sys_package><sys_policy/><sys_scope display_value="Hospital Management System">2a6511ab93da0310d21ef9bfdd03d6e6</sys_scope><sys_update_name>par_dashboard_widget_afc0b2af93964310d21ef9bfdd03d677</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-31 19:24:46</sys_updated_on><visualization/><w>47</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1338422899</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>266551ab93da0310d21ef9bfdd03d615</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-31 19:24:46</sys_created_on>
+        <sys_id>e7c0b2af93964310d21ef9bfdd03d67b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fb9a2dd9d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-31 19:24:46</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>a7c0b2af8596431093c2a891b8696f7a</update_guid>
+        <update_guid_history>a7c0b2af8596431093c2a891b8696f7a:1338422899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">40d0f2af93964310d21ef9bfdd03d676</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-31 19:24:48</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>f0a73d029f174d5b969e91f915774301</sys_id>
+        <sys_metadata>afc0b2af93964310d21ef9bfdd03d677</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital Management System" source="x_2185782_hospit_0">2a6511ab93da0310d21ef9bfdd03d6e6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital Management System">2a6511ab93da0310d21ef9bfdd03d6e6</sys_scope>
+        <sys_scope_delete display_value="">1cb73179812244239d15a3bbfbffe181</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_afc0b2af93964310d21ef9bfdd03d677</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_afc0b2af93964310d21ef9bfdd03d677">e7c0b2af93964310d21ef9bfdd03d67b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-31 19:24:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

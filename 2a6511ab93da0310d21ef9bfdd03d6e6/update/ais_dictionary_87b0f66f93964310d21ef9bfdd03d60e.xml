@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_2185782_hospit_0_appointment,x_2185782_hospit_0_doctor,x_2185782_hospit_0_department,x_2185782_hospit_0_patient</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>hospital-management-system Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_2185782_hospit_0_hospital_management_system_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-31 19:24:27</sys_created_on>
+        <sys_id>87b0f66f93964310d21ef9bfdd03d60e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_2185782_hospit_0_hospital_management_system_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Hospital Management System" source="x_2185782_hospit_0">2a6511ab93da0310d21ef9bfdd03d6e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital Management System">2a6511ab93da0310d21ef9bfdd03d6e6</sys_scope>
+        <sys_update_name>ais_dictionary_87b0f66f93964310d21ef9bfdd03d60e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-31 19:24:29</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

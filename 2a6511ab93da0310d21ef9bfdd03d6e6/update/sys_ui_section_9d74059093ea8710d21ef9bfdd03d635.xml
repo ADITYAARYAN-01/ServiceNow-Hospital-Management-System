@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="9d74059093ea8710d21ef9bfdd03d635" sys_domain="global" table="x_2185782_hospit_0_laboratory" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lab_request_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 19:43:09</sys_created_on>
+            <sys_id>14380d5893ea8710d21ef9bfdd03d637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2185782_hospit_0_laboratory" sys_domain="global" view="Default view">9d74059093ea8710d21ef9bfdd03d635</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 19:43:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>patient</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 19:43:09</sys_created_on>
+            <sys_id>90380d5893ea8710d21ef9bfdd03d638</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2185782_hospit_0_laboratory" sys_domain="global" view="Default view">9d74059093ea8710d21ef9bfdd03d635</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 19:43:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doctor</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 19:43:09</sys_created_on>
+            <sys_id>10380d5893ea8710d21ef9bfdd03d639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2185782_hospit_0_laboratory" sys_domain="global" view="Default view">9d74059093ea8710d21ef9bfdd03d635</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 19:43:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 19:43:09</sys_created_on>
+            <sys_id>9c380d5893ea8710d21ef9bfdd03d639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2185782_hospit_0_laboratory" sys_domain="global" view="Default view">9d74059093ea8710d21ef9bfdd03d635</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 19:43:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_status</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 19:43:09</sys_created_on>
+            <sys_id>1c380d5893ea8710d21ef9bfdd03d63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2185782_hospit_0_laboratory" sys_domain="global" view="Default view">9d74059093ea8710d21ef9bfdd03d635</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 19:43:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lab_report_notes</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 19:43:09</sys_created_on>
+            <sys_id>98380d5893ea8710d21ef9bfdd03d63b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2185782_hospit_0_laboratory" sys_domain="global" view="Default view">9d74059093ea8710d21ef9bfdd03d635</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 19:43:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_2185782_hospit_0_laboratory</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-02 19:26:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d74059093ea8710d21ef9bfdd03d635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2185782_hospit_0_laboratory</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hospital Management System" source="x_2185782_hospit_0">2a6511ab93da0310d21ef9bfdd03d6e6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital Management System">2a6511ab93da0310d21ef9bfdd03d6e6</sys_scope>
+            <sys_update_name>sys_ui_section_9d74059093ea8710d21ef9bfdd03d635</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-02 19:26:50</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

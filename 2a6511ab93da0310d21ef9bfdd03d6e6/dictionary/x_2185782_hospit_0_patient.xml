@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="62af1daf931e0310d21ef9bfdd03d671" label="Patient" max_length="40" name="x_2185782_hospit_0_patient" text_index="true" type="collection">
+        <element label="Address" max_length="250" name="address" type="string"/>
+        <element display="true" label="Patient Name" max_length="100" name="patient_name" type="string"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="DOB" max_length="40" name="dob" type="calendar_date_time"/>
+        <element label="Blood Group" max_length="40" name="blood_group" type="string"/>
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="Emergency Contact" max_length="40" name="emergency_contact" type="string"/>
+        <element choice="3" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="PREFER NOT TO SAY" sequence="3" value="prefer_not_to_say"/>
+                <element inactive_on_update="false" label="FEMALE" sequence="1" value="female"/>
+                <element inactive_on_update="false" label="MALE" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="OTHERS" sequence="2" value="others"/>
+            </choice>
+        </element>
+    </element>
+</database>

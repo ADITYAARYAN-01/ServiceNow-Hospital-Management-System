@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="3603cd9c93aa8710d21ef9bfdd03d63d" label="Consultation" max_length="40" name="x_2185782_hospit_0_consultation" type="collection">
+        <element label="Consultation ID" max_length="40" name="consultation_id" type="string"/>
+        <element label="Prescription" max_length="40" name="prescription" type="string"/>
+        <element label="Diagnosis" max_length="40" name="diagnosis" type="string"/>
+        <element label="Follow-up Date" max_length="40" name="follow_up_date" type="glide_date"/>
+        <element label="Appointment Reference" max_length="32" name="appointment_reference" reference="x_2185782_hospit_0_appointment" type="reference"/>
+        <element label="Notes" max_length="40" name="notes" type="string"/>
+        <index name="index">
+            <element name="appointment_reference"/>
+        </index>
+    </element>
+</database>

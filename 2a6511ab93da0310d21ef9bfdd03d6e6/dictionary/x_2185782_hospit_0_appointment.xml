@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="a152a127935e0310d21ef9bfdd03d60f" label="Appointment" max_length="40" name="x_2185782_hospit_0_appointment" text_index="true" type="collection">
+        <element label="Patient" max_length="32" name="patient" reference="x_2185782_hospit_0_patient" type="reference"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Scheduled" sequence="0" value="scheduled"/>
+                <element inactive_on_update="false" label="In Progress" sequence="3" value="in_progress"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="2" value="cancelled"/>
+            </choice>
+        </element>
+        <element label="Doctor" max_length="32" name="doctor" reference="x_2185782_hospit_0_doctor" type="reference"/>
+        <element label="Priority" max_length="40" name="priority" type="integer"/>
+        <element label="Department" max_length="32" name="department" reference="x_2185782_hospit_0_department" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Remarks" max_length="40" name="remarks" type="string"/>
+        <element label="Notes / Symptoms" max_length="1000" name="notes_symptoms" type="string"/>
+        <element label="Appointment Date &amp; Time" max_length="40" name="appointment_date_time" type="glide_date_time"/>
+        <index name="index">
+            <element name="department"/>
+        </index>
+        <index name="index2">
+            <element name="doctor"/>
+        </index>
+        <index name="index3">
+            <element name="patient"/>
+        </index>
+    </element>
+</database>

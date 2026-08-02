@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_2185782_hospit_0_hospital_management_system_search_profile_default_spell_check_dictionary">87b0f66f93964310d21ef9bfdd03d60e</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="hospital-management-system Search Profile">20b0b26f3b9643103fcf7d3985ee6563</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-31 19:24:27</sys_created_on>
+        <sys_id>8bb0f66f93964310d21ef9bfdd03d614</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2185782_hospit_0_hospital_management_system_search_profile_default_spell_check_dictionary.hospital-management-system Search Profile</sys_name>
+        <sys_package display_value="Hospital Management System" source="x_2185782_hospit_0">2a6511ab93da0310d21ef9bfdd03d6e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital Management System">2a6511ab93da0310d21ef9bfdd03d6e6</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_8bb0f66f93964310d21ef9bfdd03d614</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-31 19:24:27</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>
